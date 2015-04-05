@@ -1,4 +1,3 @@
-//noprotect
 //Main Hexagon Object make multiple instances of this objet in HexagonHandler
 function Hexagon(xPos, yPos, Columnum, rowNum){
 	this.TileID =  0;
