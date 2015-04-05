@@ -1,0 +1,10 @@
+{
+    "name": "Crows - Hexagon",
+    "version": "0.0.0",
+    "description": "Server client input ",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest"
+    },
+    "author": "ToastyStoemp"
+}
